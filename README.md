@@ -1,4 +1,4 @@
-# Heart-Attack-Risk-Prediction-Using-Classification
+# Heart Attack Risk Prediction Using Classification
 
 This project implements a binary classification system to predict the risk of a heart attack based on clinical parameters. The goal is to compare multiple **classification** algorithms and identify the most reliable model for medical diagnosis.
 
